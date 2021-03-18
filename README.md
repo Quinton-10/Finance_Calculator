@@ -12,5 +12,5 @@ And then it calculates what their investment will be according to all their inpu
 If the user types "bond" the programme will ask the user to input: 
 * The present value of the house. E.g. 100000  
 * The interest rate. E.g. 7  
-* The number of months they plan to take to repay the bond. E.g. 120
+* The number of months they plan to take to repay the bond. E.g. 120  
 And calculate and print how much the user will pay each month
